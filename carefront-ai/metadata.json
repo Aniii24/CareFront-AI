@@ -1,0 +1,5 @@
+{
+  "name": "CareFront AI",
+  "description": "A safety-focused AI intake assistant that gathers patient history and synthesizes clinical notes without offering medical diagnosis.",
+  "requestFramePermissions": []
+}
